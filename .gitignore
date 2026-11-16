@@ -1,0 +1,34 @@
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.venv/
+
+# Dataset and data
+data/
+datasets/
+
+# Recordings and media
+*.mp4
+*.avi
+*.mov
+*.wav
+*.mp3
+
+# Temporary files
+temp/
+tmp/
+*.tmp
+*.log
+
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# Jupyter and system files
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
